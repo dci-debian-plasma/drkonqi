@@ -23,7 +23,7 @@ Build-Depends: cmake (>= 2.8.12),
                libqt5x11extras5-dev,
                pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev (>= 5.4)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.2
 Homepage: https://cgit.kde.org/drkonqi.git/
 Vcs-Browser: http://anonscm.debian.org/git/pkg-kde/plasma/drkonqi.git
 Vcs-Git: git://anonscm.debian.org/git/pkg-kde/plasma/drkonqi.git
